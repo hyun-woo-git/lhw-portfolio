@@ -1,0 +1,8 @@
+.title {
+    text-align: center;
+    display: block;
+    font-size: 30px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid rgba(121, 121, 121, 0.3);
+}
