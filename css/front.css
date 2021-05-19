@@ -35,3 +35,30 @@
     justify-content: flex-end;
     align-items: center;
 }
+
+body {
+    background-color: beige;
+}
+
+.intro {
+    margin: 40px 80px;
+}
+
+.intro__title {
+    margin-bottom: 20px;
+}
+
+.title_1 {
+    background-color: burlywood;
+    font-size: 25px;
+    text-align: center;
+}
+
+.intro__main {
+    margin-top: 10px;
+}
+
+.main_1 {
+    font-size: 12px;
+    justify-content: center;
+}
